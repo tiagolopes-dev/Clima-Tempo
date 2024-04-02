@@ -62,6 +62,7 @@ body::after {
   font-family: "Roboto", sans-serif;
   transition: 0.6s ease-out;
   z-index: 999999;
+  opacity: 0.6;
 }
 
 .search-box {
